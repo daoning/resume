@@ -7,7 +7,7 @@ demo: false
 photo: "images/face.png"
 name: "任道宁"
 # copy: "I'm a UI/UX Developer based in Vancouver, Canada. More than five years of experience in design/development and have a passion for giving back to the local tech community as an instructor."
-copy: "热爱代码的程序员，目前在使用Java工作。发展愿景：在中间件层甚至更基础的层面工作，为业务应用层提供便利。比如：redis sorted set实现.. sql执行程序..  入职时间：1个月内。"
+copy: "热爱代码的程序员，目前在使用Java工作。发展愿景：在中间件层甚至更基础的层面工作，为业务应用层提供便利。"
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
